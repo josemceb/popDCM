@@ -1,2 +1,6 @@
-./SPMmodels/data
+# Data
+*.csv
+
+# Jupyter Notebook
+.ipynb_checkpoints
 
